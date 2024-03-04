@@ -30,3 +30,8 @@ Prog5: Write a recursive function to find the sum of the following series.
 Prog6: Write a Program to implement Binary Search using a recursive function.
 Prog7: Write a Program to reverse an array using a recursive function.
 Prog8: Write a Program to calculate the length of the string using a recursive function.
+
+Assignment 4: Queue
+Prog1: Write a program to implement a Queue class (use a list to store the elements of the Queue). [Implement Queue Overflow and Underflow by Exception]. Write a method to check two Queue are carrying similar elements or not. (Repetition of the elements are not consider)
+Prog2: Write a menu driven program to implement a circular queue (use an array to store the elements of the queue). You can follow any one of the schemes A circular list with front and rear indices and one position left vacant. Or, A circular list with front and rear indices and an integer variable counting entries
+Prog3: Write a menu driven program to implement a deque using list. Call the two ends of the deque left and right and write four C functions, remvLeft, remvRight, insrtLeft, insrtRight to remove and insert elements at the left and right ends of the deque. Make sure that the routines work properly for empty deque and that they detect overflow and underflow

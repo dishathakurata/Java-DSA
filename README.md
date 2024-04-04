@@ -64,3 +64,14 @@ Prog3: Write a menu driven program to implement a doubly circular linked list wi
 Prog4: Write a program to implement a stack using linked list, such that the operations ‘push’ and ‘pop’ are performed in constant time.
 Prog5: Write a program to implement a queue using linked list, such that the operations ‘enqueue’ and ‘dequeue’ are performed in constant time.
 Prog6: Write a menu driven program to implement a double ended queue using linked list.
+
+Assignment 6: Tree
+Prog1: Write functions to implement a solution to Towers of Hanoi problem. Check your program with number of disks = 0, 1, 2 and 3.
+Prog2: Write a recursive function to find the maximum and minimum number is the given list that solves this using divide and conquer.
+Prog3: Write a program to construct a Binary Search Tree (BST) and perform the following
+        a. Traverse the tree in preorder, inorder, postorder and levelorder
+        b. Count the number of nodes
+        c. Count the number of leaves
+        d. Find the height of the tree
+        e. Search for an item in the tree
+        f. Remove a node from the tree

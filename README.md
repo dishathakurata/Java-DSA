@@ -75,3 +75,20 @@ Prog3: Write a program to construct a Binary Search Tree (BST) and perform the f
         d. Find the height of the tree
         e. Search for an item in the tree
         f. Remove a node from the tree
+
+Assignment 7: Dynamic Programming
+Prog1: Write programs to traverse a given graph using
+        i) Depth First Search (DFS)
+        ii) Breadth First Search (BFS)
+Prog2: Write programs for finding minimum spanning tree of a given graph using
+        i) Kruskal’s algorithm
+        ii) Prim’s algorithm
+Prog3: Write a program to implement Floyed Warshall algorithm for finding all pair shortest distances.
+Prog4: Write a program to implement Fractional knapsack.
+Prog5: Write a program to implement 0/1 knapsack.
+Prog6: Write a program to find out the total number of ways to make change of given amount.
+For example, for N = 4 and S = {1,2,3}, there are four solutions: {1,1,1,1}, {1,1,2}, {2,2}, {1,3}. So output should be 4. [Infinite Supply of coins]
+Prog7: Write a program to find out the minimum no of coins to make change of given amount
+        For example, for N = 10 and S = {1,5,6,9}, there are two solutions: {5,5},{1,9} So output should be 2. [Infinite Supply of coins]
+Prog8: Given a set of non-negative integers, and a value sum, Write a program to determine if there is a subset of the given set with sum equal to given sum. Input: set [] = {3, 34, 4, 12, 5, 2}, sum = 9.
+        Output: True [ There is a subset (4, 5) with sum 9]

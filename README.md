@@ -76,7 +76,7 @@ Prog3: Write a program to construct a Binary Search Tree (BST) and perform the f
         e. Search for an item in the tree
         f. Remove a node from the tree
 
-Assignment 7: Dynamic Programming
+Assignment 7: Greedy and Dynamic Programming
 Prog1: Write programs to traverse a given graph using
         i) Depth First Search (DFS)
         ii) Breadth First Search (BFS)
@@ -92,3 +92,14 @@ Prog7: Write a program to find out the minimum no of coins to make change of giv
         For example, for N = 10 and S = {1,5,6,9}, there are two solutions: {5,5},{1,9} So output should be 2. [Infinite Supply of coins]
 Prog8: Given a set of non-negative integers, and a value sum, Write a program to determine if there is a subset of the given set with sum equal to given sum. Input: set [] = {3, 34, 4, 12, 5, 2}, sum = 9.
         Output: True [ There is a subset (4, 5) with sum 9]
+
+Assignment 8: Sorting
+Prog1: Write functions for each of the following sorting techniques (show the result after each iteration)
+        a. Selection
+        b. Insertion
+Prog2: Write functions for each of the following sorting techniques
+        a. Quick
+        b. Merge
+Prog3: Write functions for each of the following sorting techniques
+        a. Radix
+        b. Heap sort

@@ -1,6 +1,6 @@
 # Java-DSA
 
-College assignments
+College assignments - 
 
 Assignment 1: Array
 Prog1: Search :- Linear search, Binary search
